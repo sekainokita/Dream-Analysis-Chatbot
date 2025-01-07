@@ -1,0 +1,12 @@
+numpy
+pandas
+streamlit
+streamlit-chat
+openai==0.28.1
+python-dotenv
+langchain
+tiktoken 
+faiss-cpu
+markitdown
+PyPDF2
+pathlib
